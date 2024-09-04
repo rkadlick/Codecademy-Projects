@@ -15,7 +15,7 @@
     * Use command line
     * Develop locally on your computer
 3. **My Project**
-    * My [project](https://github.com/rkadlick/Codecademy-Projects/MixedMessages) gives you a travel recommendation based on a few random locations and random activiites and landmarks in those locations.
+    * My [project](https://github.com/rkadlick/Codecademy-Projects/tree/main/back-end-engineer/mixed-messages) gives you a travel recommendation based on a few random locations and random activiites and landmarks in those locations.
 4. **Output Example**
     * For your next trip, visit Tokyo and enjoy exploring temples in Asakusa. Don't miss the modern architecture of Tokyo Skytree!
     * For your next trip, visit New York City and enjoy exploring the Metropolitan Museum of Art. Don't miss the iconic Statue of Liberty!
@@ -39,7 +39,7 @@ To view and run this project locally, follow these steps:
    * To download as a ZIP file, click the “Code” button on the GitHub page and select “Download ZIP.”
 
 2. **Navigate to the Project Directory**
-   * Open the project folder on your computer, under /Codecademy-Projects/FrontEndEngineer/MixedMessages
+   * Open the project folder on your computer, under /Codecademy-Projects/back-end-engineer/mixed-messages
 
 3. **Open the HTML File**
    * Open `index.html` in your preferred web browser (e.g., Chrome, Firefox, Safari).

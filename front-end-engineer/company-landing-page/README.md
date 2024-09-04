@@ -5,7 +5,6 @@
 * [Project Goals](#project-goals)
 * [Built with](#built-with)
 * [Setup Instructions](#setup-instructions)
-* [Live Demo](#live-demo)
 * [Credits](#credits)
 
 ## Project Overview
@@ -23,7 +22,7 @@ This project differs from others you’ve encountered thus far on Codecademy. In
    * Develop locally on your computer or using Codecademy’s platform
 
 3. **My Project**
-   * My [project](https://github.com/rkadlick/Codecademy-Projects/CompanyLandingPage) showcases a company homepage layout that utilizes flexbox to create a responsive and visually appealing design. The design features a header, main content area, and footer, all styled with flexbox to ensure a clean and adaptable layout.
+   * My [project](https://github.com/rkadlick/Codecademy-Projects/tree/main/front-end-engineer/company-landing-page) showcases a company homepage layout that utilizes flexbox to create a responsive and visually appealing design. The design features a header, main content area, and footer, all styled with flexbox to ensure a clean and adaptable layout.
 
 4. **Output Example**
    * A well-structured homepage with a header, main content, and footer, arranged using flexbox for responsive design.
@@ -45,7 +44,7 @@ This project differs from others you’ve encountered thus far on Codecademy. In
    * To download as a ZIP file, click the “Code” button on the GitHub page and select “Download ZIP.”
 
 2. **Navigate to the Project Directory**
-   * Open the project folder on your computer, under Codecademy-Projects/FrontEndEngineer/CompanyLandingPage
+   * Open the project folder on your computer, under Codecademy-Projects/front-end-engineer/company-landing-page
 
 3. **Open the HTML File**
    * Open `index.html` in your preferred web browser (e.g., Chrome, Firefox, Safari).

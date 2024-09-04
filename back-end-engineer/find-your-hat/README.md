@@ -27,11 +27,16 @@ To view and run this project locally, follow these steps:
 1. **Install Node.js**
    * Make sure [Node.js](https://nodejs.org/en/download/package-manager) is installed on your computer.
 
-2. **Download the Project Files**
-   * Download the `main.js` file from the repository.
+1. **Clone or Download the Repository**
+   * You can clone the repository using Git or download it as a ZIP file.
+   * To clone the repository, run:
+     ```bash
+     git clone https://github.com/rkadlick/Codecademy-Projects.git
+     ```
+   * To download as a ZIP file, click the “Code” button on the GitHub page and select “Download ZIP.”
 
-3. **Navigate to the Project Directory**
-   * Use the terminal to navigate to the folder containing `main.js`.
+2. **Navigate to the Project Directory**
+   * Use the terminal to navigate to the folder containing `main.js`, under Codecademy-Projects/back-end-engineer/find-your-hat
 
 4. **Run the Game**
    * Start the game by executing:

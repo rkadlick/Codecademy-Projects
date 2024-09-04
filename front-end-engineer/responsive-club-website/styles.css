@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+@import 'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap';
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  text-align: center;
+  font-family:'Space Grotesk', serif;
+  font-weight: 600;
+  font-size: 2em;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+#header{
+  background:#fff;
+  position: sticky;
+  top: 0;
+  display:flex;
+  justify-content: space-around;
+  width: 100%;
+  align-items: baseline;
+  box-shadow: 0 6px 31px -2px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 800px) {
+  #header {
+    text-align: center;
+    height: auto;
+    flex-wrap: wrap;
+  }
+}
+
+#header-img{
+  width: 5rem;
+  align-self: center;
+  margin: 5px 5px;
+}
+
+@media (max-width: 800px) {
+  #header-img {
+    width: 14rem;
+  }
+}
+.header-text{
+  align-content: flex-end;
+  font-size: 2rem;
+  font-family:'Space Grotesk';
+}
+
+.logo{
+  display: flex;
+  align-self: center;
+  align-content: center;
+}
+
+nav{
+  position: relative;
+  float: right;
+  align-self: end;
+}
+
+@media (max-width: 800px) {
+  nav {
+    position: static;
+    float: none;
+  }
+}
+
+#nav-bar > ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justif-content: space-around;
+}
+
+li {
+  margin-left: 50px;
+  font-size: 1.1rem;
+  font-family: 'Space Grotesk', serif;
+}
+
+@media (max-width: 800px) {
+  li {
+    font-size: 1.5rem;
+  }
+}
+
+
+li > a {
+  color: black;
+}
+
+li > a:hover {
+  color: gray;
+}
+
+.nav-link{
+  text-decoration: none;
+}
+
+.section-padding{
+  padding-top: 9rem;
+}
+
+h1{
+  font-family: 'Space Grotesk', serif;
+  font-size: 2.5em;
+  font-weight: 700;
+}
+
+#events{
+background-color: #af343c;
+}
+
+.flexy{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.tile{
+  width: 400px;
+  text-align: center;
+  background-color: #fafafa;
+  height: 25rem;
+  width: 25rem;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 0.5rem;
+  transition: all 0.2s;
+  padding: 1.5rem;
+  margin: 1rem;
+}
+
+.tile > h3 {
+  font-family: 'Space Grotesk', serif;
+  font-weight: 500;
+  font-size: 1.75em;
+}
+
+#tile-img{
+  width: 65%
+}
+
+.about-paragraph{
+  margin: 1rem 5rem;
+}
+
+#newsletter{
+  background-color: #af343c;
+  padding-bottom: 3rem;
+}
+
+
+input[type="email"]{
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 
+    0 6px 6px rgba(0, 0, 0, 0.23);
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: .4rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+@media (max-width: 800px) {
+  input[type="email"]{
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
+
+#submit{
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 
+    0 6px 6px rgba(0, 0, 0, 0.23);
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: .4rem;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #d27a28;
+}
+
+@media (max-width: 800px) {
+  #submit{
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
