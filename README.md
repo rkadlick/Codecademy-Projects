@@ -23,7 +23,7 @@ This repository is a curated collection of projects developed during various Cod
 The Front-End Engineer section includes projects focused on building interactive and visually appealing user interfaces. These projects utilize technologies such as HTML, CSS, JavaScript, and various front-end frameworks and libraries.
 
 **Projects:**
-*Coming Soon*
+- [Company Landing Page](./FrontEndEngineer/CompanyLandingPage/)
 
 ### Back-End Engineer
 
