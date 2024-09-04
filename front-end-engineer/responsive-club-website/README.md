@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Project Overview](#project-overview)
 * [Project Goals](#project-goals)
-* [Built with](#built-with)
+* [Built With](#built-with)
 * [Setup Instructions](#setup-instructions)
 * [Credits](#credits)
 

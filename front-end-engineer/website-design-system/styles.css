@@ -1,0 +1,108 @@
+body {
+  margin: 0 10%;
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+p, li{
+  font-family: 'Overpass', sans-serif;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+.white {
+  background-color: #ffffff;
+}
+
+.light-gray {
+  background-color: #f2f2f2;
+}
+
+.gray {
+  background-color: #505050;
+  color: #fff;
+}
+
+.dark-gray {
+  background-color: #292929;
+  color: #fff;
+}
+
+.purple{
+  background-color: #6904ce;
+  color: #fff;
+}
+
+.red{
+  background-color: #ff0000;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.overpass-mono {
+  font-family: 'Overpass Mono', monospace;
+}
+
+.overpass {
+  font-family: 'Overpass', sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Overpass', sans-serif;
+}
