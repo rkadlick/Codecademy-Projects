@@ -23,15 +23,24 @@ This repository is a curated collection of smaller projects developed during var
 The Front-End Engineer section includes projects focused on building interactive and visually appealing user interfaces. These projects utilize technologies such as HTML, CSS, JavaScript, and various front-end frameworks and libraries.
 
 **Projects:**
-- [Company Landing Page](./FrontEndEngineer/CompanyLandingPage/)
+- [Cheat Sheet](./front-end-engineer/cheat-sheet/)
+- [Company Landing Page](./front-end-engineer/company-landing-page/)
+- [Fotomatic](./front-end-engineer/fotomatic/)
+- [Responsive Club Website](./front-end-engineer/responsive-club-website/)
+- [Tea Cozy](./front-end-engineer/tea-cozy/)
+- [Website Design System](./front-end-engineer/website-design-system/)
 
 ### Back-End Engineer
 
 The Back-End Engineer section highlights projects that involve server-side development, databases, and API integration. These projects demonstrate proficiency in server-side languages, database management, and creating RESTful services.
 
 **Projects:**
-- [Find Your Hat](./BackEndEngineer/FindYourHat/)
-- [Mixed Messages](./BackEndEngineer/MixedMessages/)
+- [Credit Card Checker](./back-end-engineer/credit-card-checker/)
+- [Film Finder](./back-end-engineer/film-finder/)
+- [Find Your Hat](./back-end-engineer/find-your-hat/)
+- [Mixed Messages](./back-end-engineer/mixed-messages/)
+- [Mysterious Organisms](./back-end-engineer/mysterious-organisms/)
+- [Number Guesser](./back-end-engineer/number-guesser/)
 
 ### Full-Stack Engineer
 
