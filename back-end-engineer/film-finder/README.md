@@ -23,7 +23,7 @@ You’ve caught up on your list of TV shows and movies and want to get recommend
    * Develop locally on your computer or using Codecademy’s platform
 
 3. **My Project**
-   * My [project](https://github.com/rkadlick/Codecademy-Projects/tree/main/front-end-engineer/film-finder) features a movie discovery app that provides random movie suggestions from various genres. Users can like or dislike a recommendation and get a new movie suggestion in the same genre.
+   * My [project](https://github.com/rkadlick/Codecademy-Projects/tree/main/back-end-engineer/film-finder) features a movie discovery app that provides random movie suggestions from various genres. Users can like or dislike a recommendation and get a new movie suggestion in the same genre.
 
 4. **Output Example**
    * A simple movie discovery interface that fetches random movie recommendations by genre. Users can either accept the recommendation or request a new one by clicking "like" or "dislike."
@@ -45,7 +45,7 @@ You’ve caught up on your list of TV shows and movies and want to get recommend
    * To download as a ZIP file, click the “Code” button on the GitHub page and select “Download ZIP.”
 
 2. **Navigate to the Project Directory**
-   * Open the project folder on your computer, under Codecademy-Projects/front-end-engineer/film-finder
+   * Open the project folder on your computer, under Codecademy-Projects/back-end-engineer/film-finder
 
 3. **Get an API Key**
    * Before running the project, you need to obtain an API key from [The Movie Database](https://www.themoviedb.org/documentation/api). Follow these steps:
@@ -68,4 +68,4 @@ You’ve caught up on your list of TV shows and movies and want to get recommend
    * The project will display as a static webpage that allows you to interact with movie recommendations based on selected genres.
 
 ## Credits
-This was a practice project from the Front-End Engineer path at [Codecademy](https://www.codecademy.com).
+This was a practice project from the Back-End Engineer path at [Codecademy](https://www.codecademy.com).
