@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Project Overview](#project-overview)
 * [Project Goals](#project-goals)
-* [Setup Instructions](#setup-instructions)
 * [Built with](#built-with)
+* [Setup Instructions](#setup-instructions)
 * [Live Demo](#live-demo)
 * [Credits](#credits)
 
@@ -29,20 +29,23 @@ This project differs from others you’ve encountered thus far on Codecademy. In
    * A well-structured homepage with a header, main content, and footer, arranged using flexbox for responsive design.
    * Sections such as navigation, company info, and contact details are flexibly arranged to adapt to various screen sizes.
 
-## Setup Instructions
+## Built With
+* HTML
+* CSS
+* Flexbox
 
-To view and run this project locally, follow these steps:
+## Setup Instructions
 
 1. **Clone or Download the Repository**
    * You can clone the repository using Git or download it as a ZIP file.
    * To clone the repository, run:
      ```bash
-     git clone https://github.com/yourusername/company-homepage-flexbox.git
+     git clone https://github.com/rkadlick/Codecademy-Projects.git
      ```
    * To download as a ZIP file, click the “Code” button on the GitHub page and select “Download ZIP.”
 
 2. **Navigate to the Project Directory**
-   * Open the project folder on your computer.
+   * Open the project folder on your computer, under Codecademy-Projects/FrontEndEngineer/CompanyLandingPage
 
 3. **Open the HTML File**
    * Open `index.html` in your preferred web browser (e.g., Chrome, Firefox, Safari).
@@ -50,15 +53,6 @@ To view and run this project locally, follow these steps:
 
 4. **View the Project**
    * The project will display as a static webpage. You can inspect the layout and design in your browser’s developer tools to see how flexbox is used.
-
-
-## Built with
-* HTML
-* CSS
-* Flexbox
-
-## Live Demo
-[Live Demo]()
 
 ## Credits
 This was a practice project from the Front-End Engineer path at [Codecademy](https://www.codecademy.com).

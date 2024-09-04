@@ -3,25 +3,42 @@
 ## Table of Contents
 * [Project Goals](#project-goals)
 * [Built With](#built-with)
-* [How to Use](#how-to-use)
+* [Setup Instructions](#setup-instructions)
 * [Credits](#credits)
 
 ## Project Goals
+
 1. **Project Context**
-    * In this project, you’ll be building an interactive terminal game. The scenario is that the player has lost their hat in a field full of holes, and they must navigate back to it without falling down one of the holes or stepping outside of the field.
+   * In this project, you’ll be building an interactive terminal game. The scenario is that the player has lost their hat in a field full of holes, and they must navigate back to it without falling down one of the holes or stepping outside of the field.
+
 2. **Project Objectives**
-    * Using node.js build a maze game, played through the terminal
-	* Field is generated and validated using DFS to ensure maze is completable.
+   * Build a maze game using Node.js that is played through the terminal.
+   * Generate and validate the field using Depth-First Search (DFS) to ensure the maze is completable.
 
 ## Built With
-* Javascript, NodeJS
 
-## How to Use
-1. make sure [NodeJS](https://nodejs.org/en/download/package-manager) is installed
-2. download `main.js`
-3. use the terminal to navigate to the folder containing `main.js`
-4. add the prompt-sync package, `npm i prompt-sync`
-5. run the game `node main.js`
+* JavaScript
+* Node.js
+
+## Setup Instructions
+
+To view and run this project locally, follow these steps:
+
+1. **Install Node.js**
+   * Make sure [Node.js](https://nodejs.org/en/download/package-manager) is installed on your computer.
+
+2. **Download the Project Files**
+   * Download the `main.js` file from the repository.
+
+3. **Navigate to the Project Directory**
+   * Use the terminal to navigate to the folder containing `main.js`.
+
+4. **Run the Game**
+   * Start the game by executing:
+     ```bash
+     node main.js
+     ```
 
 ## Credits
-This was a practice project from the Back End Engineer path at [Codecademy](https://www.codecademy.com)
+
+This was a practice project from the Back End Engineer path at [Codecademy](https://www.codecademy.com).
