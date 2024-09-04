@@ -14,7 +14,7 @@ Welcome to the Codecademy Projects Repository! This repository serves as a centr
 
 ## Introduction
 
-This repository is a curated collection of projects developed during various Codecademy courses. It aims to demonstrate the skills and knowledge acquired from Codecademy's educational paths. These projects cover a broad range of topics and technologies, providing a comprehensive overview of modern web development practices.
+This repository is a curated collection of smaller projects developed during various Codecademy courses. It aims to demonstrate the skills and knowledge acquired from Codecademy's educational paths. These projects cover a broad range of topics and technologies, providing a comprehensive overview of modern web development practices.
 
 ## Project Categories
 
